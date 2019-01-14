@@ -1,0 +1,16 @@
+PODS:
+  - NameSpace (0.1.0)
+
+DEPENDENCIES:
+  - NameSpace (from `../`)
+
+EXTERNAL SOURCES:
+  NameSpace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NameSpace: c5ff898d4ccf960981cddf2aae61cf9e4ec4b159
+
+PODFILE CHECKSUM: 46b8020b7cf39aaca5bd9e4660c6981e09113be3
+
+COCOAPODS: 1.5.3

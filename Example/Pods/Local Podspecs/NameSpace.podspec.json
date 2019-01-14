@@ -1,0 +1,22 @@
+{
+  "name": "NameSpace",
+  "version": "0.1.0",
+  "summary": "A short description of NameSpace.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chunyang li/NameSpace",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chunyang li": "chunyang.li.o@nio.com"
+  },
+  "source": {
+    "git": "https://github.com/chunyang li/NameSpace.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NameSpace/Classes/**/*"
+}
