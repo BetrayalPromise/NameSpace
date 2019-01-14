@@ -7,18 +7,27 @@
 //
 
 import UIKit
+import NameSpace
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        print(self.ns.name)
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
+}
+
+extension ViewController: NameSpaceWrappable {}
+
+extension TypeWrapperProtocol where WrappedType: ViewController {
+    var name: String {
+        return "A"
+    }
 }
 

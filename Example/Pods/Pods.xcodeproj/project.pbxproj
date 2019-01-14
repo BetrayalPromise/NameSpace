@@ -42,24 +42,24 @@
 		1E3ED039895FCE301C6B1FE941C02312 /* NameSpace-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NameSpace-prefix.pch"; sourceTree = "<group>"; };
 		2464E5DF5659927821BAE7B69A3E5268 /* NameSpace.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NameSpace.xcconfig; sourceTree = "<group>"; };
 		3C786D49BB16BB658CD344EE708CA241 /* Pods-NameSpace_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NameSpace_Tests-resources.sh"; sourceTree = "<group>"; };
-		4169331650B954F29F245E122CDD0ABB /* Pods_NameSpace_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NameSpace_Example.framework; path = "Pods-NameSpace_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4169331650B954F29F245E122CDD0ABB /* Pods_NameSpace_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NameSpace_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ACF1206ED8F9E92A2932E0CC6A7E75A /* Pods-NameSpace_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NameSpace_Example-resources.sh"; sourceTree = "<group>"; };
 		4F4B757FEE7DD417D1B2ACC625B06CA9 /* Pods-NameSpace_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NameSpace_Tests.modulemap"; sourceTree = "<group>"; };
 		52F312560D20431E15CAF704B3BB1A6E /* Pods-NameSpace_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NameSpace_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6385C09DF43B2BCCBA34772FFB8171EA /* NameSpace.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NameSpace.framework; path = NameSpace.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6385C09DF43B2BCCBA34772FFB8171EA /* NameSpace.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NameSpace.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66193FC5F10ED6422030D11FECFA94B1 /* Pods-NameSpace_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NameSpace_Example-umbrella.h"; sourceTree = "<group>"; };
 		73B25E05E1C25186021A8D04F3553516 /* Pods-NameSpace_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NameSpace_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		7D276ECAE058F038312D78F9FBE80A0B /* Pods-NameSpace_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NameSpace_Tests-dummy.m"; sourceTree = "<group>"; };
 		8870E2F4C5DB8A974B0734ABCE024DE0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F97437E535B3330060FE36CE4DAE6FB /* NameSpace-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NameSpace-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A4053DAE0145315FF44DE1179572AAB7 /* Pods-NameSpace_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NameSpace_Example-dummy.m"; sourceTree = "<group>"; };
 		AF2576A0C23F91EAC81E57F50A585220 /* Pods-NameSpace_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NameSpace_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B30C5C8580E6FA588656BBB7F2196A9B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B30C5C8580E6FA588656BBB7F2196A9B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B39A320D29D27F17EC34E9A91128F147 /* Pods-NameSpace_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NameSpace_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C53B75C2F69723693896CD1E9BB5D049 /* Pods-NameSpace_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NameSpace_Example.modulemap"; sourceTree = "<group>"; };
-		C8023166A60950B1728741B23086CC89 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		C8276C2C3D318CCBE45330195D411152 /* NameSpace.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = NameSpace.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C8023166A60950B1728741B23086CC89 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C8276C2C3D318CCBE45330195D411152 /* NameSpace.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = NameSpace.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DAD51AAE2696E7C2BD88AD14F8C4824B /* Pods-NameSpace_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NameSpace_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DF2141C4E0BA8A6FD44C82DDD123F515 /* Pods-NameSpace_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NameSpace_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		E3E33B185940679CB049A1DD3D092FA6 /* NameSpace.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = NameSpace.modulemap; sourceTree = "<group>"; };
 		E43A473A52390E40E1AA6C0D7E17026D /* Pods-NameSpace_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NameSpace_Example-frameworks.sh"; sourceTree = "<group>"; };
 		E821EB3AEBA8C3E32473FC2962B14D97 /* Pods-NameSpace_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NameSpace_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		EA20761BA029932C98B5566334ACD558 /* Pods_NameSpace_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NameSpace_Tests.framework; path = "Pods-NameSpace_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA20761BA029932C98B5566334ACD558 /* Pods_NameSpace_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NameSpace_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED4AA47F5D19A00CFCAFB7ECB7E2649E /* Pods-NameSpace_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NameSpace_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F177E5DC9AF292B8E3914C1D68933DF2 /* NameSpace-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NameSpace-umbrella.h"; sourceTree = "<group>"; };
 		F216EDA16115DD9D6FD99627C027FF20 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -321,6 +321,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					6585EA075A853CE275BA18881FD3D517 = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -597,8 +602,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -695,7 +699,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -727,7 +731,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
