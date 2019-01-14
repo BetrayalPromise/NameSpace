@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NameSpace_Example' do
+  pod 'NameSpace', :path => '../'
+
+  target 'NameSpace_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
